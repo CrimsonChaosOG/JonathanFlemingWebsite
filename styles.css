@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pacifico', cursive;
+}
+
+h1{
+    margin-top:0;
+}
+
+.img{
+    vertical-align: middle;
+}
+
+.top-container{
+    background-color:#6667ab;
+    position:relative;
+    padding-top: 100px;
+    margin-bottom:0px;
+    padding-bottom:0px;
+}
+
+.middle-container{
+    background-color: #cc2936;
+    position:relative;
+    padding-top: 20px;
+}
+
+.bottom-container {
+    background-color: #f5f0f6;
+    position:relative;
+    padding-top: 20px;
+}
+
+.game{
+    position:absolute;
+    left:0px;
+    bottom:0px;
+    height:450px;
+    width:250px;
+    margin-bottom: -7px;
+}
+.mountain{
+    position:relative; 
+    bottom:0px;
+    margin-bottom: -7px;
+}
+.cloud1{
+    position: absolute;
+    right: 30%;
+    top: 10%;
+}
+
+.cloud2{
+    position: absolute;
+    left:30%;
+    bottom: 40%;
+}
